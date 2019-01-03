@@ -1,21 +1,16 @@
-# forum-client
+# forum client
 
-## Project setup
-```
-npm install
-```
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+## features
 
-### Compiles and minifies for production
-```
-npm run build
-```
+1. login and register
+2. posts
+3. comments
+4. user info and settings
 
-### Lints and fixes files
-```
-npm run lint
-```
+## completion
+
+0%
+
+## author
+JIZHUA
